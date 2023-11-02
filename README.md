@@ -14,7 +14,7 @@ This is a MERN (MongoDB, Express, React, Node.js) stack-based Airbnb clone proje
 - **Frontend:** React, Redux, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- 
+
 ## Installation
 
 1. Clone the repository:
